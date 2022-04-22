@@ -1,0 +1,3 @@
+ng new projectName //create app
+
+ng serve //start a development server
